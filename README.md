@@ -4,13 +4,13 @@
 
 ## Usage
 
-To get a file of sentences containing keywords, extracted from Chinese datasets:
+#### To get a file of sentences containing keywords, extracted from Chinese datasets:
 
 ```bash
 python print_sents.py 擦
 ```
 
-To get a file containing keywords, corresponding collocates and examples, ranked by frequencies:
+#### To get a file containing keywords, corresponding collocates and examples, ranked by frequencies:
 
 ```bash 
 python print_freq_sents.py 破 -s 3 -hp V -d 1 -cp V N D
