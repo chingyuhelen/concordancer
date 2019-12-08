@@ -4,7 +4,7 @@
 
 ## Usage
 
-To get a file of sentences with keywords extracted from Chinese datasets:
+To get a file of sentences containing keywords, extracted from Chinese datasets:
 
 ```bash
 python print_sents.py 擦
